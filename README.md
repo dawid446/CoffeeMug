@@ -6,3 +6,7 @@
 # GetId
 ![screen shot 03-02-19 at 12 18 pm](https://user-images.githubusercontent.com/26162742/53681825-38d76000-3cef-11e9-9d5c-83728eed6233.PNG)
 ![screen shot 03-02-19 at 12 18 pm 001](https://user-images.githubusercontent.com/26162742/53681844-66bca480-3cef-11e9-85c7-f16be8bd03db.PNG)
+
+# Post
+![screen shot 03-02-19 at 12 20 pm](https://user-images.githubusercontent.com/26162742/53681864-c1ee9700-3cef-11e9-8117-5e0085d8e6f0.PNG)
+![screen shot 03-02-19 at 12 20 pm 001](https://user-images.githubusercontent.com/26162742/53681865-c5821e00-3cef-11e9-93da-b1048a8568ee.PNG)
